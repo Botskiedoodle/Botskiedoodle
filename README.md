@@ -26,4 +26,4 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Botskiedoodle&theme=dark&show_icons=true&hide=contribs,prs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Botskiedoodle&theme=dark&show_icons=true&hide=prs,issues)
