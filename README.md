@@ -6,7 +6,7 @@
   
 
 - 🔭 I’m currently working on a project using VueJS
-- 🌱 I’m currently learning everything! 
+- 🌱 I’m currently learning flutter! 
 - 👯 I’m looking to collaborate with others on different projects!
 
 
